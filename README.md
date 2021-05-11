@@ -29,8 +29,10 @@ cd [PROJECT_REPO_NAME]
 ## :runner: Running
 
 ```sh
-...
+go run server.go
 ```
+
+Access http://localhost:8080/
 
 ## License
 
