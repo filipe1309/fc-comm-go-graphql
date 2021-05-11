@@ -11,6 +11,7 @@ This project was developed following FullCycle's [Communication](https://portal.
 ## :computer: Technologies
 
 -   [Go](https://golang.org/)
+-   [gqlgen](https://github.com/99designs/gqlgen)
 
 ## :scroll: Requirements
 
