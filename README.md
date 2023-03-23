@@ -20,11 +20,11 @@ This project was developed following FullCycle's [Communication](https://portal.
 ## :cd: Installation
 
 ```sh
-git clone [PROJECT_REPO_LINK]
+git clone https://github.com/filipe1309/fc-comm-go-graphql.git
 ```
 
 ```sh
-cd [PROJECT_REPO_NAME]
+cd fc-comm-go-graphql
 ```
 
 ## :runner: Running
